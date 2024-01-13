@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="50091318-e37b-480b-a45e-79324d28c708" name="Changes" comment="" />
+    <list default="true" id="50091318-e37b-480b-a45e-79324d28c708" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Llama-2-GGML-Medical-Chatbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Llama-2-GGML-Medical-Chatbot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +29,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/LLM-MedAid/A dataset of simulated patient-physician medical interviews with a focus on respiratory cases"
+    "last_opened_file_path": "G:/llama2-GGML-MedAid-Thesis/data"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\llama2-GGML-MedAid-Thesis\data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
