@@ -1,0 +1,1 @@
+pip install --upgrade accelerate peft bitsandbytes transformers trl pdfplumber
