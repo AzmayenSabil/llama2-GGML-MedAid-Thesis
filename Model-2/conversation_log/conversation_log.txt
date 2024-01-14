@@ -1,0 +1,34 @@
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain. 
+ [/Response]  Great, thank you for sharing that with me. Can you tell me more about the chest pain? When did it start? Is it a sharp or dull pain? Does it radiate to any other part of your body?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] middle of the night 
+ [/Response]  Great, thank you for letting me know. Can you tell me when did you first experience this middle of the night symptom?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] 3 nights ago 
+ [/Response]  Great, thank you for letting me know. Can you tell me, have you experienced any difficulty breathing or shortness of breath in the past few days?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] yes I have 
+ [/Response]  Great! Can you tell me your age?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] 24 
+ [/Response]  Great, thank you for confirming. Can you tell me where the pain is located? Is it in one specific area or does it radiate to other areas?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] pain is located on my chest. it radiates to my left hand 
+ [/Response]  Great, thank you for letting me know. Can you tell me more about the pain in your chest? Is it a sharp or dull sensation? Does it feel like it's located in a specific spot or is it more widespread? And how long have you been experiencing this pain?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] it is sharp. I have been experiencing it for 7 days 
+ [/Response]  Great, thank you for letting me know. Can you tell me more about the sharp pain you are experiencing? Where is the pain located? Is it constant or does it come and go? How would you describe the intensity of the pain?
+
+
+Conversation ended by user. ---------------- 
+
