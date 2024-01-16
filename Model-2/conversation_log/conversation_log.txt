@@ -73,3 +73,27 @@ Conversation started.
 
 Conversation ended by user. ---------------- 
 
+
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain. 
+ [/Response]  Great, thank you for letting me know. Can you tell me where the pain is located? Is it in the center of your chest, or is it more towards the left or right side? 
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] It is more to the left side. 
+ [/Response]  Thank you for letting me know. How about the pain? Is it sharp or dull?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] It is sharp pain. 
+ [/Response]  Thank you for letting me know. Can you tell me where the pain is located? Is it in your chest, abdomen, or somewhere else?
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] chest pain 
+ [/Response]  Great, thank you for letting me know. Can you tell me more about the chest pain? How would you describe it? Is it sharp, dull, or achy? Is it constant or does it come and go? Do you feel any pain in your arms or shoulders? Do you have any shortness of breath? Do you have any cough or fever? Do you have any history of heart problems? Do you smoke? Do you have any other medical conditions? Do you take any medications? Do you have any allergies? Do you have any recent travel history? Do you have any recent hospitalizations? Do you have
+
+
+Conversation ended by user. ---------------- 
+
+
