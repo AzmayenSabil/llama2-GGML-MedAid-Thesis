@@ -1,22 +1,3 @@
-Dataset Preparation:
-
-	Format: Use a question-answer format dataset with:
-	Context: A brief description of the patient's condition or reason for visit.
-	The doctor's question to elicit symptoms.
-	Answer: The patient's response describing their symptoms.
-	Sources:
-		> medical interviews or conversations with actors playing patients.
-		> existing medical conversation datasets like 
-			>> MIMIC-III or 
-			>> Open Dialogue Medical Dataset
-
-LLM Selection:
-
-	Choose an LLM that excels at dialogue or question-answering, such as:
-		> Jurassic-1 Jumbo
-		> BLOOM
-		> Megatron-Turing NLG
-
 Fine-tuning Approach:
 
 	framework like 
@@ -28,6 +9,8 @@ Fine-tuning Approach:
 	# only fine-tune the upper layers responsible for specific task adaptation.
 	# Implement data augmentation techniques to artificially increase the size and diversity of your dataset.
 	# Consider using reinforcement learning approaches for training the LLM to maximize the amount of relevant information extracted from the conversation.
+
+
 
 Additional Tips:
 

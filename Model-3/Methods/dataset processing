@@ -1,0 +1,28 @@
+Dataset Preparation:
+
+	Format: Use a question-answer format dataset with:
+	Context: A brief description of the patient's condition or reason for visit.
+	The doctor's question to elicit symptoms.
+	Answer: The patient's response describing their symptoms.
+	Sources:
+		> medical interviews or conversations with actors playing patients.
+		> existing medical conversation datasets like 
+			>> MIMIC-III or 
+			>> Open Dialogue Medical Dataset
+
+
+
+1. Cleaning:
+	Remove irrelevant information,
+	Standardize formatting
+2. Structuring:
+	Segment into dialogue turns,
+3. Augmentation:
+	Data synthesis: Use techniques like back-translation or paraphrasing to artificially increase the size and diversity of your dataset.
+	Question pattern variations: Generate variations of the doctor's questions based on existing ones to encourage diverse responses and improve the model's ability to handle different prompts.
+	Symptom paraphrases: Include variations in how symptoms are described by patients to improve the model's ability to recognize them in different wordings.
+4. Splitting:
+	Train-validation-test split
+
+
+
