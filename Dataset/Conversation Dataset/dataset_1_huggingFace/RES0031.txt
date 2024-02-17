@@ -84,7 +84,7 @@ P: No, no skin skin rashes.
 
 D: OK, and have you had a cough?
 
-P: No, I haven't had any coffee.
+P: No, I haven't had any cough.
 
 D: How about any difficulty breathing or shortness of breath?
 
