@@ -1,9 +1,6 @@
 LLM Selection:
 
 	Choose an LLM that excels at dialogue or question-answering, such as:
-		> Jurassic-1 Jumbo
-		> BLOOM
-		> Megatron-Turing NLG
 		> TinyLlama (USING THIS)
 		> llama2 (USED)
 
