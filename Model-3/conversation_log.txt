@@ -1,0 +1,92 @@
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain. 
+ [/Response] [/User]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain 
+ [/Response] [User response] [User response] [User response] [User response] [User response] [User response] [User response] [User response]
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I am 30 years old 
+ [/Response]
+
+[Prompt] Do you have any allergies? [/Prompt]
+[User response] [/User response]
+
+[
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] yes 
+ [/Response]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] i have pain in my chest 
+ [/Response] 
+[User response] [Tone] [Phrase] [Phrase] [Phrase] [Phrase] [P
+
+
+Conversation ended by user. ---------------- 
+
