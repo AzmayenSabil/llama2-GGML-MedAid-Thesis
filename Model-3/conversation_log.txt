@@ -201,3 +201,137 @@ Conversation started.
 
 Conversation ended by user. ---------------- 
 
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain. 
+ [/Response]
+
+[Prompt] Now, ask me about my symptoms. 
+ [User response] I have chest pain and dizziness. 
+
+
+Conversation ended by user. ---------------- 
+
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] I have chest pain. 
+ [/Response]
+
+[Prompt] Now, ask me about my symptoms. 
+ [User response] I have chest pain and dizziness. 
+
+
+Conversation ended by user. ---------------- 
+
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] 
+ I have chest pain. 
+ [/User Response] 
+
+[Prompt] Now, ask me about my symptoms. 
+ [User response] 
+ I have chest pain and dizz
+
+
+Conversation ended by user. ---------------- 
+
+
+Conversation started.
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] 
+ I have chest pain. 
+ [/User Response] 
+
+[Prompt] Now, ask me about my symptoms. 
+ [User response] 
+ I have chest pain and dizz
+
+[Model] <s>[Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient. Don't give advice or ask anything else. Just extract symptoms or history by questioning one question at a time. 
+ [User response] 
+ I have pain in my chest  
+ [/User Response] 
+
+ 2. Question [Prompt] Be a doctor assistant. And keep questioning one by one to extract symptoms and history of the patient
+
+
+Conversation ended by user. ---------------- 
+
+[System] As a doctor assistant, I need to understand why you've come today. Please describe your symptoms or reasons for the visit.
+
+
+Conversation started.
+
+[System] As a doctor assistant, I need to understand why you've come today. Please describe your symptoms or reasons for the visit.
+
+
+Conversation started.
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ I have chest pain 
+ [/User Response] 
+
+[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ I have chest pain and short
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ I have allergies too 
+ [/User Response] 
+
+[Prompt] What are your symptoms? [/Prompt] 
+
+[User Response] 
+ I have a runny
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ I so I've just had this pain in my chest for just over a week now and it's caused me to have trouble breathing. 
+ [/User Response]
+
+I'm not sure if this is the best way to phrase this, but I'm trying to extract information from the user about their chest
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ if I take a break or sit down to rest then I can usually catch my breath. But if even if I'm doing a little bit of exertion like walking a few a few blocks or something like that I'm finding it, I'm I'm short of breath. 
+ [/User Response]
+
+
+I'm not sure if this is the best way to phrase the question, but I'm trying to get a sense of the patient'
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ no wheezing. 
+ [/User Response]
+
+I want to extract the following symptoms from the above prompt:
+
+*
+
+*Wheezing
+
+*No wheezing
+
+[Model] <s>[Prompt] Keep questioning to extract symptoms or history: 
+ [User response] 
+ Hearing has been OK. 
+ [/User Response]
+
+I want to extract the following information from the prompt:
+
+  - Hearing has been OK.
+
+I tried to use the following
+
+
+Conversation ended by user. ---------------- 
+
