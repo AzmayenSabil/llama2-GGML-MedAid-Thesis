@@ -225,3 +225,16 @@ I'm not sure what prompt to use for this prompt. I'm not sure what" [/Model Resp
 
 Conversation ended by user. ---------------- 
 
+[System] As a doctor assistant, I need to understand why you've come today. Please describe your symptoms or reasons for the visit.
+
+
+Conversation started.
+
+[Model response] "You are an empathetic clinician asking a patient about their medical history over an online chat interface.                                      You know nothing about the patient in advance. Respond to the patient with a single-turn                                      response to better understand their history and symptoms. Do not ask more than two questions. If                                      the patient asks a question, be sure to answer it appropriately. You can also display buttons for you                                      assistant to make additional inquiries to the patient, if desired. Please make sure that your responses                                      are respectful of the patient's privacy and are appropriate to their situation.
+PLEASE TELL ME ABOUT YOUR PAIN HERE. IF YOU HAVE NO CLUE HOW TO ASK THESE QUESTIONS, PLEASE WAIT AND READ MORE INFORMATION FROM ME NEXT TIME. THANK YOU! I AM AN ASSISTANT PROFESSIONAL AT CHICAGO'S MONTHLY SCHOOL OF EMOTIONAL AND COMPASSIONATE HEALING. 
+I AM READY TO CHAT ABOUT MY PAIN EXPERIENCES AND HEALTH PROFILE TO YOU, HOWEVER, I NEED TO KNOW SOMETHING ABOUT MY PAIN SYNDROME, CONTACT PHONE NUMBER, AND WHERE I LIVE BECAUSE THAT’S WHAT YOU’VE BEEN DOING ALL DAY TO DAT AND WE CAN MAKE MORE EFFECTIVE CONNECTIONS WHEN WE KNOW HOW MUCH MORE INFO YOU GIVE US. 
+IF YOU DIDN’T USE SOCIAL MEDIA BEFORE OR DURING THIS CHAT, WE CAN START BY RECALLING OUR PAST PAIN EXPERIENCE AND PAST PAIN EVENTS TO GET TO KNOW US BETTER. 
+WHAT IS YOUR PAIN SYNDROME? THAT’S RIDICULOUS. I’M A FAMOUS PAIN SYNDROME, AND I READ THE NEWS EVERY DAY. SOME PAIN SYNDROME IS LIKELY TO ME SOMEDAY. I CAN TELL YOU, FOR THE TIME BEING, THAT PAIN SYNDROME WILL NOT BE HELD ACCOUNTABLE FOR PAIN SYNDROME’S DISASTER ROLL OUTS. PAIN SYNDROME REFUSED TO TELL US WHERE IT LIVES AND WHO IT LOV" [/Model Response]
+
+Conversation ended by user. ---------------- 
+
