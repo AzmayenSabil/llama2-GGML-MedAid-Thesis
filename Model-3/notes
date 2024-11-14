@@ -1,6 +1,38 @@
-Probable Dataset Links: 
-	link-0: https://huggingface.co/datasets/yfyeung/medical --- FOUND
-	link-1: https://github.com/UCSD-AI4H/Medical-Dialogue-System
-	link-2: https://huggingface.co/datasets/medical_dialog
-	link-3: https://github.com/yanguojun123/Medical-Dialogue
-	link-4: https://paperswithcode.com/dataset/meddg
+res01:
+chest pain,
+trouble breathing,
+shortness of breath,
+cough,
+coughing up blood,
+sputum,
+wheezing,
+COPD,
+fever,
+chills,
+night sweat,
+change is vision,
+change in hearing,
+change in smell,
+dry cough,
+rashes,
+calf pain,
+swelling,
+headache,
+fainting,
+allergies,
+family history of lung condition,
+family history of heart attack,
+smoke,
+drug,
+alcohol,
+sick environment
+
+
+
+
+res02:
+shortness of breathing,
+cough,
+sputum,
+fever,
+
